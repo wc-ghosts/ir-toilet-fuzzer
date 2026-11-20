@@ -1,0 +1,14 @@
+App(
+    appid="ir_boundary_lab",
+    name="IR Fuzz Compare",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="ir_boundary_lab_app",
+    requires=["gui", "storage"],
+    stack_size=4096,
+    fap_category="Infrared",
+    fap_version="0.17",
+    fap_description="Capture, compare and save numbered IR profiles",
+    fap_icon="images/ir_compare.png",
+    fap_author="Independent research",
+    sources=["src/*.c"],
+)

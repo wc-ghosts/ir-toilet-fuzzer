@@ -1,0 +1,46 @@
+{
+  "retrieved_date": "2026-10-10",
+  "repository_tree": "c33f37e6f75836b5d1894a95c04778d93bae51e7",
+  "files": [
+    {
+      "file": "BioBidet_BB-2000.ir",
+      "source": "https://github.com/UberGuidoZ/Flipper-IRDB/blob/main/Bidet/BioBidet/BioBidet_BB-2000.ir",
+      "git_blob_sha": "21abd2c6258f5eeb7eac55842dcca1384bb58306",
+      "sha256": "7112482cc95cf6e871e7a6e91cb5e5db6e8038098841da052f55a0ef9abde0c2",
+      "presentation_alias": "capture-A.ir",
+      "location": "tests/fixtures/BioBidet_BB-2000.ir"
+    },
+    {
+      "file": "Toto.ir",
+      "source": "https://github.com/UberGuidoZ/Flipper-IRDB/blob/main/Bidet/BioBidet/Toto.ir",
+      "git_blob_sha": "479a617f74679f3757a740ef923741b9e836c2b9",
+      "sha256": "73ef5c9a63832391f57ffb482d15377b3621acf06736155eb4b1bb6731d9cb9b",
+      "presentation_alias": "capture-B.ir",
+      "location": "tests/fixtures/Toto.ir"
+    },
+    {
+      "file": "TotoWashlet.ir",
+      "source": "Existing workspace capture; upstream origin not recorded in this manifest.",
+      "sha256": "2c2c3ea2245ec3e96c6ef263b33326817463a955cc70b207bb65225c3c238a9b",
+      "presentation_alias": "capture-B2.ir",
+      "location": "tests/fixtures/TotoWashlet.ir"
+    },
+    {
+      "file": "Lixil.ir",
+      "source": "Existing workspace capture; upstream origin not recorded in this manifest.",
+      "sha256": "cb9ab2dc96462e15c658d7870bc20a6b6cdcc0204559443ae58ac1922f3016e7",
+      "presentation_alias": "capture-C.ir",
+      "location": "tests/fixtures/Lixil.ir"
+    },
+    {
+      "file": "biobidet_bb2000.ir",
+      "source": "https://github.com/UberGuidoZ/Flipper-IRDB/blob/main/Bidet/BioBidet/biobidet_bb2000.ir",
+      "git_blob_sha": "f24787fcbfc940337fe49ec9d5050dc7f2643b22",
+      "sha256": "e534842bef7637edc5adc163e1881464654f51a1dafb80b5b9f916d55ed1453e",
+      "presentation_alias": "capture-D.ir",
+      "location": "tests/fixtures/biobidet_bb2000.ir"
+    }
+  ],
+  "use": "Reference signals used by the protocol analyzer and fuzzer host fixtures; not embedded as a command library in the FAP.",
+  "reorganized_on": "2026-10-28"
+}

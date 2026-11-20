@@ -1,0 +1,15 @@
+{
+  "app_version": "0.17",
+  "snapshots": 143,
+  "selected_screens": [
+    "Saved profile browser with maker labels",
+    "Diff actions: Save profile",
+    "Diff saved as TOTO plus automatic number",
+    "Save capture set: existing maker picker"
+  ],
+  "layout_overflows": [],
+  "page_errors": [],
+  "network_requests": [],
+  "checks": "All recorded C renderer screens fit the LCD preview; numbered maker labels, diff save action/result, shared maker picker and preview navigation checked.",
+  "hardware": "Recorded host rendering only; device fonts are approximate; no physical IR emitted."
+}

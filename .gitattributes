@@ -1,0 +1,2 @@
+# Retained IR test fixtures keep their original bytes.
+tests/fixtures/*.ir -whitespace
